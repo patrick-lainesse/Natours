@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72d73779-5ea1-48d1-aaee-069b3b67348c" name="Default Changelist" comment="" />
+    <list default="true" id="72d73779-5ea1-48d1-aaee-069b3b67348c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gYGN1G62WYgFUC6qh2dUYozFg8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -32,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598284073019</updated>
       <workItem from="1598284075428" duration="17000" />
-      <workItem from="1598284233406" duration="2940000" />
+      <workItem from="1598284233406" duration="4275000" />
     </task>
     <servers />
   </component>
@@ -40,6 +50,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="503" y="316" width="274" height="199" key="Github.ShareDialog" timestamp="1598295967217">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state x="503" y="316" width="274" height="199" key="Github.ShareDialog/0.25.1280.775@0.25.1280.775" timestamp="1598295967217" />
+    <state x="318" y="37" width="634" height="757" key="Github.UntrackedFilesDialog" timestamp="1598295996340">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state x="318" y="37" width="634" height="757" key="Github.UntrackedFilesDialog/0.25.1280.775@0.25.1280.775" timestamp="1598295996340" />
     <state x="303" y="121" width="672" height="678" key="search.everywhere.popup" timestamp="1598284780234">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
