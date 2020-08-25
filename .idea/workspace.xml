@@ -42,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598284073019</updated>
       <workItem from="1598284075428" duration="17000" />
-      <workItem from="1598284233406" duration="5355000" />
+      <workItem from="1598284233406" duration="6780000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Header animation">
       <created>1598297163178</created>
@@ -58,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598297288446</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: Header button animation">
+      <created>1598298328065</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598298328065</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,13 +74,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: Header animation" />
     <MESSAGE value="docs: Added README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: Added README.md" />
+    <MESSAGE value="feat: Header button animation" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Header button animation" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="131" y="25" width="1007" height="775" key="CommitChangelistDialog2" timestamp="1598297288210">
+    <state x="131" y="25" width="1007" height="775" key="CommitChangelistDialog2" timestamp="1598298327853">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="131" y="25" width="1007" height="775" key="CommitChangelistDialog2/0.25.1280.775@0.25.1280.775" timestamp="1598297288210" />
+    <state x="131" y="25" width="1007" height="775" key="CommitChangelistDialog2/0.25.1280.775@0.25.1280.775" timestamp="1598298327853" />
     <state x="503" y="316" width="274" height="199" key="Github.ShareDialog" timestamp="1598295967217">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
@@ -82,10 +90,10 @@
       <screen x="0" y="25" width="1280" height="775" />
     </state>
     <state x="318" y="37" width="634" height="757" key="Github.UntrackedFilesDialog/0.25.1280.775@0.25.1280.775" timestamp="1598295996340" />
-    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1598297289506">
+    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1598298329519">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2/0.25.1280.775@0.25.1280.775" timestamp="1598297289506" />
+    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2/0.25.1280.775@0.25.1280.775" timestamp="1598298329519" />
     <state x="303" y="121" width="672" height="678" key="search.everywhere.popup" timestamp="1598284780234">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
