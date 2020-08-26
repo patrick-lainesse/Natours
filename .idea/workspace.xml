@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72d73779-5ea1-48d1-aaee-069b3b67348c" name="Default Changelist" comment="feat: npm install node-sass" />
+    <list default="true" id="72d73779-5ea1-48d1-aaee-069b3b67348c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +33,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -39,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598284073019</updated>
       <workItem from="1598284075428" duration="17000" />
-      <workItem from="1598284233406" duration="11474000" />
+      <workItem from="1598284233406" duration="12282000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Header animation">
       <created>1598297163178</created>
@@ -97,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598386023326</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feat: npm install node-sass">
+      <created>1598386123828</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1598386123828</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,10 +132,10 @@
       <screen x="0" y="25" width="1280" height="775" />
     </state>
     <state x="380" y="258" width="510" height="315" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1280.775@0.25.1280.775" timestamp="1598378624032" />
-    <state x="131" y="25" width="1007" height="775" key="CommitChangelistDialog2" timestamp="1598386061435">
+    <state x="131" y="25" width="1007" height="775" key="CommitChangelistDialog2" timestamp="1598386123628">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="131" y="25" width="1007" height="775" key="CommitChangelistDialog2/0.25.1280.775@0.25.1280.775" timestamp="1598386061435" />
+    <state x="131" y="25" width="1007" height="775" key="CommitChangelistDialog2/0.25.1280.775@0.25.1280.775" timestamp="1598386123628" />
     <state x="503" y="316" width="274" height="199" key="Github.ShareDialog" timestamp="1598295967217">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
@@ -131,17 +144,17 @@
       <screen x="0" y="25" width="1280" height="775" />
     </state>
     <state x="318" y="37" width="634" height="757" key="Github.UntrackedFilesDialog/0.25.1280.775@0.25.1280.775" timestamp="1598295996340" />
-    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1598386077703">
+    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1598386128917">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2/0.25.1280.775@0.25.1280.775" timestamp="1598386077703" />
+    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2/0.25.1280.775@0.25.1280.775" timestamp="1598386128917" />
     <state x="321" y="67" width="617" height="697" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1598386049234">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
     <state x="321" y="67" width="617" height="697" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.25.1280.775@0.25.1280.775" timestamp="1598386049234" />
-    <state x="303" y="121" width="672" height="678" key="search.everywhere.popup" timestamp="1598284780234">
+    <state x="303" y="121" width="672" height="678" key="search.everywhere.popup" timestamp="1598404756360">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="303" y="121" width="672" height="678" key="search.everywhere.popup/0.25.1280.775@0.25.1280.775" timestamp="1598284780234" />
+    <state x="303" y="121" width="672" height="678" key="search.everywhere.popup/0.25.1280.775@0.25.1280.775" timestamp="1598404756360" />
   </component>
 </project>
