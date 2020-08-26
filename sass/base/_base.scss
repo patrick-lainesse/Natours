@@ -1,0 +1,23 @@
+/* Basic reset of the style of the page for all browsers, as well as the pseudo-elements */
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; /*all elements will inherit from body*/
+}
+
+html {
+  /*
+  Defines what 1rem is
+  root font-size = 1rem
+  default browser font-size is 16px. We want 10px, so 10/16 * 100
+  We prefer % to px not avoid overriding the user settings in his browser
+  */
+  font-size: 62.5%;
+}
+
+/* Use inherithance to apply fonts on all elements*/
+body {
+  box-sizing: border-box;
+}
