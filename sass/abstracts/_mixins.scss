@@ -1,0 +1,8 @@
+// Used to correct the row height of 0px when all the elements are floated
+@mixin clearfix {
+  &::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
