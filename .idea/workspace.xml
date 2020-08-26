@@ -8,8 +8,7 @@
       <change beforePath="$PROJECT_DIR$/sass/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/abstracts/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/_typography.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/base/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/_utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/layout/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/_grid.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/pages/_home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/components/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/_buttons.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -62,7 +61,7 @@
       <workItem from="1598284075428" duration="17000" />
       <workItem from="1598284233406" duration="16168000" />
       <workItem from="1598448330449" duration="834000" />
-      <workItem from="1598449231542" duration="5183000" />
+      <workItem from="1598449231542" duration="7261000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Header animation">
       <created>1598297163178</created>
@@ -155,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598453263847</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="feat: About section heading styling&#10;&#10;Also: fixed col colors">
+      <created>1598454851486</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1598454851486</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,17 +180,18 @@
     <MESSAGE value="refactor: Nested sass code" />
     <MESSAGE value="refactor: Reorganized sass in 7-1 pattern" />
     <MESSAGE value="feat: Custom grid with floats" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Custom grid with floats" />
+    <MESSAGE value="feat: About section heading styling&#10;&#10;Also: fixed col colors" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: About section heading styling&#10;&#10;Also: fixed col colors" />
   </component>
   <component name="WindowStateProjectService">
     <state x="380" y="258" width="510" height="315" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1598378624032">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
     <state x="380" y="258" width="510" height="315" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1280.775@0.25.1280.775" timestamp="1598378624032" />
-    <state x="131" y="25" width="1007" height="775" key="CommitChangelistDialog2" timestamp="1598453263497">
+    <state x="131" y="25" width="1007" height="775" key="CommitChangelistDialog2" timestamp="1598454851307">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="131" y="25" width="1007" height="775" key="CommitChangelistDialog2/0.25.1280.775@0.25.1280.775" timestamp="1598453263497" />
+    <state x="131" y="25" width="1007" height="775" key="CommitChangelistDialog2/0.25.1280.775@0.25.1280.775" timestamp="1598454851307" />
     <state x="408" y="160" width="454" height="518" key="FileChooserDialogImpl" timestamp="1598449134434">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
@@ -197,21 +204,25 @@
       <screen x="0" y="25" width="1280" height="775" />
     </state>
     <state x="318" y="37" width="634" height="757" key="Github.UntrackedFilesDialog/0.25.1280.775@0.25.1280.775" timestamp="1598295996340" />
-    <state x="270" y="63" width="932" height="737" key="SettingsEditor" timestamp="1598453786248">
+    <state x="107" y="47" width="932" height="737" key="SettingsEditor" timestamp="1598456633595">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="270" y="63" width="932" height="737" key="SettingsEditor/0.25.1280.775@0.25.1280.775" timestamp="1598453786248" />
-    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1598453265644">
+    <state x="107" y="47" width="932" height="737" key="SettingsEditor/0.25.1280.775@0.25.1280.775" timestamp="1598456633595" />
+    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1598454852645">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2/0.25.1280.775@0.25.1280.775" timestamp="1598453265644" />
+    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2/0.25.1280.775@0.25.1280.775" timestamp="1598454852645" />
     <state x="321" y="67" width="617" height="697" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1598386049234">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
     <state x="321" y="67" width="617" height="697" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.25.1280.775@0.25.1280.775" timestamp="1598386049234" />
-    <state x="303" y="121" width="672" height="160" key="search.everywhere.popup" timestamp="1598454553987">
+    <state x="0" y="25" width="602" height="775" key="find.popup" timestamp="1598456377269">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="303" y="121" width="672" height="160" key="search.everywhere.popup/0.25.1280.775@0.25.1280.775" timestamp="1598454553987" />
+    <state x="0" y="25" width="602" height="775" key="find.popup/0.25.1280.775@0.25.1280.775" timestamp="1598456377269" />
+    <state x="303" y="121" width="672" height="160" key="search.everywhere.popup" timestamp="1598456300236">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state x="303" y="121" width="672" height="160" key="search.everywhere.popup/0.25.1280.775@0.25.1280.775" timestamp="1598456300236" />
   </component>
 </project>
