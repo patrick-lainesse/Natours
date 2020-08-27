@@ -297,6 +297,30 @@
                             <input type="email" class="form__input" placeholder="Email address" id="email" required>
                             <label for="email" class="form__label">Email address</label>
                         </div>
+
+                        <div class="form__group u-margin-bottom-medium">
+                            <!--We hide the radio button since we can't modify it in css, and we customize our own button
+                            through the label, which can still select the hidden input-->
+                            <div class="form__radio-group">
+                                <input type="radio" class="form__radio-input" id="smallTour" name="tourSize">
+                                <label for="smallTour" class="form__radio-label">
+                                    <span class="form__radio-button"></span>
+                                    Small tour group
+                                </label>
+                            </div>
+
+                            <div class="form__radio-group">
+                                <input type="radio" class="form__radio-input" id="largeTour" name="tourSize">
+                                <label for="largeTour" class="form__radio-label">
+                                    <span class="form__radio-button"></span>
+                                    Large tour group
+                                </label>
+                            </div>
+                        </div>
+
+                        <div class="form__group">
+                            <button class="btn btn--green">Next step &rarr;</button>
+                        </div>
                     </form>
                 </div>
             </div>
