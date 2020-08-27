@@ -85,13 +85,12 @@
       height: 1.3rem;
       width: 1.3rem;
       border-radius: 50%;
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
+      @include centerHorizontal;
       background-color: $color-primary;
       opacity: 0;
       transition: opacity .2s;
+      // fixes the glitch where the round shape is also translated in some browsers
+      backface-visibility: hidden;
     }
   }
 
