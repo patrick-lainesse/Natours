@@ -14,7 +14,20 @@ html {
   default browser font-size is 16px. We want 10px, so 10/16 * 100
   We prefer % to px not avoid overriding the user settings in his browser
   */
-  font-size: 62.5%;
+  font-size: 62.5%;           // 1rem = 10px
+
+  // The order for the media queries is really important: always the larger ones before the smaller ones
+  @include respond(tab-land) {
+    font-size: 56.25%;       // 1rem = 9px || 9/16 = 56.25%
+  }
+
+  @include respond(tab-port) {
+    font-size: 50%;           // 1rem = 8px || 8/16 = 50%
+  }
+
+  @include respond(big-desktop) {
+    font-size: 75%;         // 1rem = 12px || 12/16 = 75%
+  }
 }
 
 /* Use inherithance to apply fonts on all elements*/
