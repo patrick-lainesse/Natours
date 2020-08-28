@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72d73779-5ea1-48d1-aaee-069b3b67348c" name="Default Changelist" comment="feat: Navigation pt.1 (menu links)">
+    <list default="true" id="72d73779-5ea1-48d1-aaee-069b3b67348c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/layout/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/_navigation.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,7 @@
       <workItem from="1598284233406" duration="16168000" />
       <workItem from="1598448330449" duration="834000" />
       <workItem from="1598449231542" duration="14098000" />
-      <workItem from="1598470257846" duration="21613000" />
+      <workItem from="1598470257846" duration="22712000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Header animation">
       <created>1598297163178</created>
@@ -256,14 +257,20 @@
       <option name="project" value="LOCAL" />
       <updated>1598564740038</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="feat: Navigation pt.2 (pop-up animation)">
+      <created>1598578124286</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1598578124286</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Header button animation" />
     <MESSAGE value="feat: Header button animation&#10;&#10;Completed the header except for the nav button." />
     <MESSAGE value="refactor: Responsive measures replaces pixels" />
     <MESSAGE value="refactor: Implemented BEM architecture class names" />
@@ -288,7 +295,8 @@
     <MESSAGE value="feat: Booking section pt.3 (custom radio buttons)" />
     <MESSAGE value="feat: Footer section" />
     <MESSAGE value="feat: Navigation pt.1 (menu links)" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Navigation pt.1 (menu links)" />
+    <MESSAGE value="feat: Navigation pt.2 (pop-up animation)" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Navigation pt.2 (pop-up animation)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="235" y="74" width="800" height="726" key="#Intentions" timestamp="1598467324922">
@@ -299,10 +307,10 @@
       <screen x="0" y="25" width="1280" height="775" />
     </state>
     <state x="380" y="258" width="510" height="327" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1280.775@0.25.1280.775" timestamp="1598555065342" />
-    <state x="131" y="25" width="1007" height="775" key="CommitChangelistDialog2" timestamp="1598577226156">
+    <state x="131" y="25" width="1007" height="775" key="CommitChangelistDialog2" timestamp="1598578124091">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="131" y="25" width="1007" height="775" key="CommitChangelistDialog2/0.25.1280.775@0.25.1280.775" timestamp="1598577226156" />
+    <state x="131" y="25" width="1007" height="775" key="CommitChangelistDialog2/0.25.1280.775@0.25.1280.775" timestamp="1598578124091" />
     <state x="408" y="160" width="454" height="518" key="FileChooserDialogImpl" timestamp="1598449134434">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
@@ -319,10 +327,10 @@
       <screen x="0" y="25" width="1280" height="775" />
     </state>
     <state x="107" y="47" width="932" height="737" key="SettingsEditor/0.25.1280.775@0.25.1280.775" timestamp="1598471053253" />
-    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1598564741156">
+    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1598578125634">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2/0.25.1280.775@0.25.1280.775" timestamp="1598564741156" />
+    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2/0.25.1280.775@0.25.1280.775" timestamp="1598578125634" />
     <state x="321" y="67" width="617" height="697" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1598386049234">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
