@@ -33,4 +33,10 @@ html {
 /* Use inherithance to apply fonts on all elements*/
 body {
   box-sizing: border-box;
+  padding: 3rem;
+
+  // remove the padding on the page below tablet portrait screen size
+  @include respond(tab-port) {
+    padding: 0;
+  }
 }

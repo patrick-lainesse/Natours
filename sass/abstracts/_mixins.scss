@@ -30,6 +30,8 @@ $breakpoint argument choices:
 
 em and rem aren't affected by what we defined in our _base.scss, but are always defined by what's coming from the browser
 rem fails in media queries in some browsers, so we are using: 1em = 16px
+
+ORDER to apply responsive : Base + typography > general layout + grid > page layout > components
  */
 @mixin respond($breakpoint) {
   @if $breakpoint == phone {
