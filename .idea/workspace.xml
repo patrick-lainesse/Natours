@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="72d73779-5ea1-48d1-aaee-069b3b67348c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,7 @@
       <workItem from="1598448330449" duration="834000" />
       <workItem from="1598449231542" duration="14098000" />
       <workItem from="1598470257846" duration="26563000" />
-      <workItem from="1598618768854" duration="9911000" />
+      <workItem from="1598618768854" duration="11448000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Header animation">
       <created>1598297163178</created>
@@ -306,14 +305,20 @@
       <option name="project" value="LOCAL" />
       <updated>1598629773288</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="feat: Responsive images pt.1&#10;&#10;Art direction and density switching">
+      <created>1598640784726</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1598640784726</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="refactor: Nested sass code" />
     <MESSAGE value="refactor: Reorganized sass in 7-1 pattern" />
     <MESSAGE value="feat: Custom grid with floats" />
     <MESSAGE value="feat: About section heading styling&#10;&#10;Also: fixed col colors" />
@@ -338,7 +343,8 @@
     <MESSAGE value="feat: Applying media queries pt.1&#10;&#10;- Base&#10;- Topography&#10;- Layout files" />
     <MESSAGE value="feat: Applying media queries pt.2 (first half)&#10;&#10;- home&#10;- composition&#10;- feature box" />
     <MESSAGE value="feat: Applying media queries pt.3 (components)&#10;&#10;Only the popup component hasn't been done. It is not all perfect, but since it's only for learning purposes, it has been left as is." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Applying media queries pt.3 (components)&#10;&#10;Only the popup component hasn't been done. It is not all perfect, but since it's only for learning purposes, it has been left as is." />
+    <MESSAGE value="feat: Responsive images pt.1&#10;&#10;Art direction and density switching" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Responsive images pt.1&#10;&#10;Art direction and density switching" />
   </component>
   <component name="WindowStateProjectService">
     <state x="235" y="74" width="800" height="726" key="#Intentions" timestamp="1598467324922">
@@ -349,10 +355,10 @@
       <screen x="0" y="25" width="1280" height="775" />
     </state>
     <state x="380" y="258" width="510" height="327" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1280.775@0.25.1280.775" timestamp="1598555065342" />
-    <state x="229" y="25" width="1007" height="775" key="CommitChangelistDialog2" timestamp="1598629772983">
+    <state x="229" y="25" width="1007" height="775" key="CommitChangelistDialog2" timestamp="1598640784477">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="229" y="25" width="1007" height="775" key="CommitChangelistDialog2/0.25.1280.775@0.25.1280.775" timestamp="1598629772983" />
+    <state x="229" y="25" width="1007" height="775" key="CommitChangelistDialog2/0.25.1280.775@0.25.1280.775" timestamp="1598640784477" />
     <state x="408" y="160" width="454" height="518" key="FileChooserDialogImpl" timestamp="1598449134434">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
@@ -369,10 +375,10 @@
       <screen x="0" y="25" width="1280" height="775" />
     </state>
     <state x="107" y="47" width="932" height="737" key="SettingsEditor/0.25.1280.775@0.25.1280.775" timestamp="1598471053253" />
-    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1598629774555">
+    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1598640785830">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2/0.25.1280.775@0.25.1280.775" timestamp="1598629774555" />
+    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2/0.25.1280.775@0.25.1280.775" timestamp="1598640785830" />
     <state x="321" y="67" width="617" height="697" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1598386049234">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
