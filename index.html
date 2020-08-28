@@ -353,7 +353,16 @@
 <!--in BEM notation, each element should get a class-->
 <footer class="footer">
     <div class="footer__logo-box">
-        <img src="img/logo-green-2x.png" alt="Full logo" class="footer__logo">
+
+        <!--select img src according to the resolution of the screen-->
+        <!--<img srcset="img/logo-green-1x.png 1x, img/logo-green-2x.png 2x" alt="Full logo" class="footer__logo">-->
+
+        <!--Art direction: use media query to select the image depending on the screen size and resolution-->
+        <picture class="footer__logo">
+            <source srcset="img/logo-green-small-1x.png 1x, img/logo-green-small-2x.png 2x" media="(max-width: 37.5em)">
+            <img srcset="img/logo-green-1x.png 1x, img/logo-green-2x.png 2x" alt="Full logo">
+        </picture>
+
     </div>
     <div class="row">
         <div class="col-1-of-2">
@@ -370,11 +379,9 @@
         <div class="col-1-of-2">
             <p class="footer__copyright">
                 Built by <a href="#" class="footer__link">Jonas Schmedtmann</a> for his online course
-                <a href="#" class="footer__link">Advanced
-                    CSS and Sass</a>. Copyright &copy; by Jonas Schmedtmann. You are 100% allowed to use this webpage
-                for
-                both personal and commercial use, but NOT to claim it as your own design. A credit to the original
-                author, Jonas Schmedtmann, is of course highly appreciated!
+                <a href="#" class="footer__link">Advanced CSS and Sass</a>. Copyright &copy; by Jonas Schmedtmann. You are
+                100% allowed to use this webpage for both personal and commercial use, but NOT to claim it as your own
+                design. A credit to the original author, Jonas Schmedtmann, is of course highly appreciated!
             </p>
         </div>
     </div>
@@ -390,7 +397,8 @@
         <div class="popup__right">
             <a href="#section-tours" class="popup__close">&times;</a>
             <h2 class="heading-secondary u-margin-bottom-small">Start booking now</h2>
-            <h3 class="heading-tertiary u-margin-bottom-small">Important &ndash; Please read these terms before booking</h3>
+            <h3 class="heading-tertiary u-margin-bottom-small">Important &ndash; Please read these terms before
+                booking</h3>
             <p class="popup__text">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium alias, architecto asperiores
                 consequatur culpa cum, debitis dignissimos dolores ducimus esse harum molestias nostrum quas quo rem

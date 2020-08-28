@@ -7,3 +7,4 @@ Project developed for the *Advanced CSS and SASS* course from Jonas Schedtmann a
 - 7-1 css pattern to organize the code
 - Built using float layouts
 - rem are used as a unit of measure to facilitate to scale everything for the responsive design adaptation
+- Responsive images
