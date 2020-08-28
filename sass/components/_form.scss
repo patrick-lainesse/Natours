@@ -100,6 +100,7 @@
       opacity: 0;
       transition: opacity .2s;
       // fixes the glitch where the round shape is also translated in some browsers
+      -webkit-backface-visibility: hidden;
       backface-visibility: hidden;
     }
   }

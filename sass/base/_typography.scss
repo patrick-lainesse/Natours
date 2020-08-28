@@ -12,6 +12,7 @@ body {
   text-transform: uppercase;
 
   /* determines if the back part is visible to the user, eliminates the shaky animation*/
+  -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   margin-bottom: 6rem;
 

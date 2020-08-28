@@ -13,6 +13,9 @@
     top: 0;
     left: 0;
     width: 100%;
+
+    // From caniuse: safari 9 & 10 needs the webkit prefix
+    -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
     border-radius: 3px;
     // overflow: if the image overflows the border-radius, it stays rounded
