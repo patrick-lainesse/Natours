@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72d73779-5ea1-48d1-aaee-069b3b67348c" name="Default Changelist" comment="">
+    <list default="true" id="72d73779-5ea1-48d1-aaee-069b3b67348c" name="Default Changelist" comment="bugfix: Minor changes&#10;&#10;- custom highlight color&#10;- media queries four touch screens">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/components/_popup.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/_popup.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/abstracts/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/base/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/base/_base.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/components/_card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/components/_card.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/layout/_header.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,7 @@
       <workItem from="1598449231542" duration="14098000" />
       <workItem from="1598470257846" duration="26563000" />
       <workItem from="1598618768854" duration="15942000" />
-      <workItem from="1598883921665" duration="125000" />
+      <workItem from="1598883921665" duration="1208000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Header animation">
       <created>1598297163178</created>
@@ -339,14 +338,20 @@
       <option name="project" value="LOCAL" />
       <updated>1598644749016</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="feat: NPM Scripts for dev and production">
+      <created>1598884088828</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1598884088828</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: About section (paragraphs and button)" />
     <MESSAGE value="feat: About section (images)" />
     <MESSAGE value="feat: Feature boxes&#10;&#10;- Direct children selector&#10;- Skew in degrees&#10;- Gradient icons&#10;- Hovering animation" />
     <MESSAGE value="feat: Tours section (card animation)" />
@@ -371,7 +376,8 @@
     <MESSAGE value="feat: Responsive images pt.2&#10;&#10;Using width descriptor on the pictures in the composition (about section)" />
     <MESSAGE value="feat: Responsive images pt.3 (css)&#10;&#10;Changed the media queries for the heading background image, not applied to the rest of the background images in the page." />
     <MESSAGE value="bugfix: @supports for some of the features" />
-    <option name="LAST_COMMIT_MESSAGE" value="bugfix: @supports for some of the features" />
+    <MESSAGE value="feat: NPM Scripts for dev and production" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: NPM Scripts for dev and production" />
   </component>
   <component name="WindowStateProjectService">
     <state x="235" y="74" width="800" height="726" key="#Intentions" timestamp="1598467324922">
@@ -386,10 +392,10 @@
       <screen x="0" y="25" width="1280" height="775" />
     </state>
     <state x="380" y="258" width="510" height="327" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1280.775@0.25.1280.775" timestamp="1598555065342" />
-    <state x="185" y="25" width="1007" height="775" key="CommitChangelistDialog2" timestamp="1598644748794">
+    <state x="185" y="25" width="1007" height="775" key="CommitChangelistDialog2" timestamp="1598885137406">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="185" y="25" width="1007" height="775" key="CommitChangelistDialog2/0.25.1280.775@0.25.1280.775" timestamp="1598644748794" />
+    <state x="185" y="25" width="1007" height="775" key="CommitChangelistDialog2/0.25.1280.775@0.25.1280.775" timestamp="1598885137406" />
     <state x="408" y="160" width="454" height="518" key="FileChooserDialogImpl" timestamp="1598449134434">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
@@ -406,14 +412,14 @@
       <screen x="0" y="25" width="1280" height="775" />
     </state>
     <state x="107" y="47" width="932" height="737" key="SettingsEditor/0.25.1280.775@0.25.1280.775" timestamp="1598471053253" />
-    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1598644750224">
+    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1598884146239">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2/0.25.1280.775@0.25.1280.775" timestamp="1598644750224" />
-    <state x="321" y="67" width="617" height="697" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1598386049234">
+    <state x="235" y="144" width="800" height="543" key="Vcs.Push.Dialog.v2/0.25.1280.775@0.25.1280.775" timestamp="1598884146239" />
+    <state x="321" y="67" width="617" height="697" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1598885135659">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="321" y="67" width="617" height="697" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.25.1280.775@0.25.1280.775" timestamp="1598386049234" />
+    <state x="321" y="67" width="617" height="697" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.25.1280.775@0.25.1280.775" timestamp="1598885135659" />
     <state x="100" y="125" width="1080" height="575" key="dock-window-1" timestamp="1598466706686">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
@@ -422,9 +428,9 @@
       <screen x="0" y="25" width="1280" height="775" />
     </state>
     <state x="0" y="25" width="602" height="775" key="find.popup/0.25.1280.775@0.25.1280.775" timestamp="1598643755997" />
-    <state x="303" y="121" width="672" height="160" key="search.everywhere.popup" timestamp="1598883790060">
+    <state x="303" y="121" width="672" height="160" key="search.everywhere.popup" timestamp="1598884553644">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="303" y="121" width="672" height="160" key="search.everywhere.popup/0.25.1280.775@0.25.1280.775" timestamp="1598883790060" />
+    <state x="303" y="121" width="672" height="160" key="search.everywhere.popup/0.25.1280.775@0.25.1280.775" timestamp="1598884553644" />
   </component>
 </project>

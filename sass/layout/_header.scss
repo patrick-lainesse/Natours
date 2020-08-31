@@ -18,9 +18,9 @@
 
   /* Responsive image in css. We don't only rely on pixel density since phones usually have high dpi. The comma
   acts as a 'or' here. Also, Safari doesn't support min-resolution */
-  @media (min-resolution: 192dpi) and (min-width: 37.5em),
-          (-webkit-min-device-pixel-ratio: 2) and (min-width: 37.5em),  // for Safari
-          (min-width: 125em) {
+  @media only screen and (min-resolution: 192dpi) and (min-width: 37.5em),
+        only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 37.5em), // for Safari
+        only screen and (min-width: 125em) {
     background-image: linear-gradient(
                     to right bottom,
                     rgba($color-primary-light, 0.8),
